@@ -9,17 +9,16 @@ $(document).ready(function () {
         var name = $("#name").val();
         var email = $("#email").val();
         var phone_num = $("#phone").val();
-        var key = "demoCHANGED";
+        var key = "Bij89Gbgf64ub";
         var data = {
-            "live": "0",
+            "live": "1",
             "oid": "112",
             "inv": "112020102292999",
             "ttl": "900",
             "tel": "254724512285",
             "eml": "dumboperson15@gmail.com",
-            "vid": "demo",
+            "vid": "donpedro",
             "curr": "KES",
-            "p4": "900",
             "cbk": "https://webhook.site/6ecee5de-9409-4507-b684-e985234fefe0",
             "cst": "1",
             "crl": "2",
