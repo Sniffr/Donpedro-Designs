@@ -19,9 +19,9 @@ $(document).ready(function () {
             "eml": "dumboperson15@gmail.com",
             "vid": "donpedro",
             "curr": "KES",
-            "cbk": "https://webhook.site/6ecee5de-9409-4507-b684-e985234fefe0",
+            "cbk": "https://design.kenyabuildersguide.co.ke/payment-success.html",
             "cst": "1",
-            "crl": "2",
+            "crl": "0",
 
         };
         //modify data here

@@ -65,6 +65,7 @@ $(document).ready(function () {
             }
             localStorage.setItem("invoice", invoice_num);
             localStorage.setItem("price", plan_price);
+            window.location.href = './payments.html'; //relative to domain
         })
         $("#render-btn").click(function () {
             invoice_num = "DSF" + rand();
@@ -73,6 +74,7 @@ $(document).ready(function () {
 
             localStorage.setItem("invoice", invoice_num);
             localStorage.setItem("price", plan_price);
+            window.location.href = './payments.html'; //relative to domain
         })
 
     }
